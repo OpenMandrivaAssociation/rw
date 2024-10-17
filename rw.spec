@@ -6,7 +6,7 @@ Summary:	Program that calculates rank-width and rank-decompositions
 Version:	0.7
 Release:	1
 License:	GPLv2+
-URL:		http://pholia.tdi.informatik.uni-frankfurt.de/~philipp/software/%{name}.shtml
+URL:		https://pholia.tdi.informatik.uni-frankfurt.de/~philipp/software/%{name}.shtml
 Source0:	http://pholia.tdi.informatik.uni-frankfurt.de/~philipp/software/%{name}-%{version}.tar.gz
 BuildRequires:	igraph-devel
 
