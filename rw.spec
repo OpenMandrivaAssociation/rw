@@ -8,6 +8,11 @@ Release:	1
 License:	GPLv2+
 URL:		https://pholia.tdi.informatik.uni-frankfurt.de/~philipp/software/%{name}.shtml
 Source0:	http://pholia.tdi.informatik.uni-frankfurt.de/~philipp/software/%{name}-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	igraph-devel
 
 %description
